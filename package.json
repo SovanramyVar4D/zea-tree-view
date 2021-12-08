@@ -19,8 +19,8 @@
   },
   "devDependencies": {
     "@web/dev-server": "^0.1.29",
-    "@zeainc/zea-engine": "^4.3.0",
-    "@zeainc/zea-ux": "^4.0.5",
+    "@zeainc/zea-engine": "next",
+    "@zeainc/zea-ux": "next",
     "eslint-plugin-prettier": "^4.0.0",
     "husky": "^7.0.4",
     "prettier": "^2.5.1",

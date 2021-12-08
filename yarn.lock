@@ -1590,17 +1590,17 @@
     "@types/parse5" "^6.0.1"
     parse5 "^6.0.1"
 
-"@zeainc/zea-engine@^4.3.0":
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/@zeainc/zea-engine/-/zea-engine-4.3.0.tgz#caf7bbddb22edef79278321c828a7be692412ef0"
-  integrity sha512-3arbWGJkH9SoyN5dKbJo3BMee6hJKKahpR5CXsMiAkvh4RLeaI7NDqVRlCK/Rwv40Mqixq+DMPPn+pKJ4pzoqA==
+"@zeainc/zea-engine@next":
+  version "4.3.0-88bedfc"
+  resolved "https://registry.yarnpkg.com/@zeainc/zea-engine/-/zea-engine-4.3.0-88bedfc.tgz#9629c195b822b9be7c6f153f2461cc1add2fe750"
+  integrity sha512-/KMkMecduxab67qWMkITnAGT8LQpDxJE/UJJ4tB1kvdcCy2Qvjw6sheFsREddBch750F/+AZEvDd4OTQXNua0w==
   dependencies:
     lodash-es "^4.17.21"
 
-"@zeainc/zea-ux@^4.0.5":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@zeainc/zea-ux/-/zea-ux-4.0.5.tgz#06da0e6ffec92dd7d9b01ef1451702f2163de257"
-  integrity sha512-Zo/6NV1mhoRhojIGlTExq5+sgYqSKJ8xTNiqILbmmcKzaffdyi8/dJO/gEj+AdBAQhJnORYOMovz1c6JZa6P+A==
+"@zeainc/zea-ux@next":
+  version "4.0.5-d5bff18"
+  resolved "https://registry.yarnpkg.com/@zeainc/zea-ux/-/zea-ux-4.0.5-d5bff18.tgz#5fd37dbc4f10ce607554eec1c76d87e9da185320"
+  integrity sha512-GK/ut67D7aCTledRBQnyJ060TgTkB08LXdwDHZlu9qpeZw6ip67Gce11pAUeFm0wMfyUtvv/wI5vI0h3Qn3qZw==
   dependencies:
     dom-to-image "^2.6.0"
 
@@ -2941,9 +2941,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.4.17:
-  version "1.4.51"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.51.tgz#a432f5a5d983ace79278a33057300cf949627e63"
-  integrity sha512-JNEmcYl3mk1tGQmy0EvL5eik/CKSBuzAyGP0QFdG6LIgxQe3II0BL1m2zKc2MZMf3uGqHWE1TFddJML0RpjSHQ==
+  version "1.4.45"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.45.tgz#cf1144091d6683cbd45a231954a745f02fb24598"
+  integrity sha512-czF9eYVuOmlY/vxyMQz2rGlNSjZpxNQYBe1gmQv7al171qOIhgyO9k7D5AKlgeTCSPKk+LHhj5ZyIdmEub9oNg==
 
 emoji-regex@^7.0.1:
   version "7.0.3"
